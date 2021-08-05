@@ -1,2 +1,2 @@
 # Compras
- Primeiro repositório
+ Primeiro repositório no GitHub
